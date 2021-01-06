@@ -12,5 +12,5 @@
   </view>
   <text class="title">home</text>
   <button size="mini">按钮</button>
-  
+  <button size="mini">测试 tag1</button>
 </view>
